@@ -13,7 +13,7 @@ const companies = [
     returnInfo: "Zwrot YTD: 1230%",
     thesis:
       "Konsolidacja kompetencji, efekt skali, rosnące wydatki na bezpieczeństwo. Spółka powstała na przełomie 2025 roku w wyniku fuzji Grupy Niewiadów S.A. z Polską Grupą Militarną S.A.",
-    chart: "./charts/PGM.png",
+    chart: "./charts/dom.jpg",
   },
   {
     name: "CI Games",
