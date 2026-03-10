@@ -13,7 +13,7 @@ const companies = [
     returnInfo: "Zwrot YTD: 1230%",
     thesis:
       "Konsolidacja kompetencji, efekt skali, rosnące wydatki na bezpieczeństwo. Spółka powstała na przełomie 2025 roku w wyniku fuzji Grupy Niewiadów S.A. z Polską Grupą Militarną S.A.",
-    chart: "/charts/PGM.png",
+    chart: "./charts/PGM.png",
   },
   {
     name: "CI Games",
@@ -21,7 +21,7 @@ const companies = [
     returnInfo: "Zwrot YTD: 127%",
     thesis:
       "Globalny zasięg i pipeline nowych tytułów. Niezależne studio gamingowe z siedzibą w Warszawie, działające globalnie.",
-    chart: "/charts/CIA Games.png",
+    chart: "./charts/CIA Games.png",
   },
   {
     name: "Mo-BRUK",
@@ -29,7 +29,7 @@ const companies = [
     returnInfo: "10 lat: 4430%",
     thesis:
       "Ekologiczna przemiana UE i długoterminowe kontrakty. Spółka specjalizuje się w stabilizacji oraz zestalaniu odpadów nieorganicznych, produkcji paliw alternatywnych oraz termicznym przetwarzaniu odpadów niebezpiecznych i medycznych.",
-    chart: "/charts/MO Bruk.png",
+    chart: "./charts/MO Bruk.png",
   },
   {
     name: "Dino Polska",
@@ -37,7 +37,7 @@ const companies = [
     returnInfo: "Od debiutu: 1120%",
     thesis:
       "Skalowalny model, ekspansja w mniejszych miastach. Sieć supermarketów spożywczych,zlokalizowanych głównie w małych i średnich miastach Zysk netto 1,5 mld PLN (2024).",
-    chart: "/charts/DINO.png",
+    chart: "./charts/DINO.png",
   },
   {
     name: "Tarczyński",
@@ -45,7 +45,7 @@ const companies = [
     returnInfo: "10 lat: 1120%",
     thesis:
       "Silna marka przekąsek proteinowych i eksport.Polski producent w branży mięsnej — wędlin, kabanosów, parówek oraz przekąsek białkowych. Przychody >2 mld PLN (2024), zysk netto 120 mln PLN.",
-    chart: "/charts/Tarczynski.png",
+    chart: "./charts/Tarczynski.png",
   },
   {
     name: "Sygnity",
@@ -53,7 +53,7 @@ const companies = [
     returnInfo: ">5 lat: 1280%",
     thesis:
       "Cyfryzacja sektora publicznego i AI. Doradztwo IT, wytwarzanie i wdrażanie oprogramowania, integracja systemów.Segmenty działalności: sektor bankowo-finansowy, publiczny, użyteczności publicznej; także przemysł, telekomunikacja, ochrona zdrowia.",
-    chart: "/charts/Sygnity.png",
+    chart: "./charts/Sygnity.png",
   },
   {
     name: "XTB",
@@ -61,7 +61,7 @@ const companies = [
     returnInfo: "10 lat: 1085%",
     thesis:
       "Skalowalne przychody, rozbudowa oferty inwestycyjnej, innowacje online.Firma oferuje dostęp do rynków finansowych: Forex, kontraktów różnicy (CFD), surowców, indeksów, akcji, ETF-ówPrzychody 1,9 mld PLN (2024), zysk netto 860 mln PLN.",
-    chart: "/charts/XTB.png",
+    chart: "./charts/XTB.png",
   },
   {
     name: "CD PROJEKT",
@@ -69,7 +69,7 @@ const companies = [
     returnInfo: "10 lat: 1021%",
     thesis:
       "Silne IP (Witcher, Cyberpunk) i zapowiedziane sequele.Spółka gamingowa z silną marka międzynarodowa — gry jak The Witcher czy Cyberpunk zdobyły szerokie grono fanów i przyniosły wielomilionwe przychody.",
-    chart: "/charts/CD Projekt.png",
+    chart: "./charts/CD Projekt.png",
   },
 ];
 
